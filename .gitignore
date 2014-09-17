@@ -1,5 +1,6 @@
 credentials.json
 .idea
+atlassian-ide-plugin.xml
 node_modules
 
 coverage.html
